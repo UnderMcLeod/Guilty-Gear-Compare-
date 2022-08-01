@@ -1,6 +1,6 @@
 #using a list for direction inputs of punch
 
-Moves: 
+Moves:
 Punch=P=["5p", "2p", "jp","6p"]; 
 Punch_special=Ps=["236p, "214p", "236236p", "632146p"];
 Kick= K=["5k", "2k", "jk","6k"];
