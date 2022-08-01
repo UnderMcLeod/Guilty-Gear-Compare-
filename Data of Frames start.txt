@@ -1,0 +1,190 @@
+Data of Frames start
+class StartupFrames
+
+        class 5p.IntEnum
+        sol= 4
+        ky= 5
+        ino=5
+
+        class 5k.IntEnum
+        sol=3
+        ky=7
+        ino=7
+
+        class c.S.IntEnum
+        sol=7
+        ky=7
+        ino=7
+
+        class f.S.IntEnum
+        sol=10
+        ky=12
+        ino=13
+
+        class 5h.IntEnum
+        sol=11
+        ky=14
+        ino=15
+
+        class 5d.IntEnum
+        sol=20 or 28
+        ky=20 or 28
+        ino=20 or 28
+
+        class 2P.IntEnum
+        sol=5
+        ky=5
+        ino=5
+
+        class 2k.IntEnum
+        sol=6
+        ky=6
+        ino=6
+
+        class 2S.IntEnum
+        sol=10
+        ky=10
+        ino=10
+
+        class 2H.IntEnum
+        sol=11
+        ky=11
+        ino=11
+
+        class 2D.IntEnum
+        sol=10
+        ky=10
+        ino=12
+
+        class 6P.IntEnum
+        sol=9
+        ky=9
+        ino=9
+
+        class 6S.IntEnum
+        sol=15
+        ky=null
+        ino=null
+
+        class 6K.IntEnum
+        sol=null
+        ky=25
+        ino=null
+
+        class 6H.IntEnum
+        sol=9
+        ky=15
+        ino=7
+
+        class j.P.IntEnum
+        sol=5
+        ky=6
+        ino=5
+
+        class j.K.IntEnum
+        sol=6
+        ky=7
+        ino=7
+
+        class j.S.IntEnum
+        sol=10
+        ky=7
+        ino=8
+
+        class j.H.IntEnum
+        sol=11
+        ky=13
+        ino=12
+
+        class j.D.IntEnum
+        sol=9
+        ky=13
+        ino=16
+
+        class 6D/4D.IntEnum
+        sol=2
+        ky=2
+        ino=2
+
+        class 236P.IntEnum
+        sol=20
+        ky=null
+        ino=null
+
+        class 214P.IntEnum
+        sol=null
+        ky=null
+        ino=29
+
+        class 623S.IntEnum
+        sol=9
+        ky=11
+        ino=null
+
+        class 623H.IntEnum
+        sol=13
+        ky=13
+        ino=null
+
+        class 236K.IntEnum
+        sol=12
+        ky=5
+        ino=null
+
+        class j.236k.IntEnum
+        sol=10
+        ky=null
+        ino=10
+
+        class 214K.IntEnum
+        sol=30
+        ky=24
+        ino=11
+
+        class 236S.IntEnum
+        sol=null
+        ky=13
+        ino=16
+
+        class 214P.IntEnum
+        sol=0
+        ky=null
+        ino=null
+
+        class 623K.IntEnum
+        sol=6
+        ky=null
+        ino=null
+
+        class 214S.IntEnum
+        sol=15 to 32
+        ky=14
+        ino=null
+
+        class 41236H.IntEnum
+        sol=24
+        ky=null
+        ino=null
+
+        class 632146.IntEnum
+        sol=7
+        ky=8
+        ino=11
+
+        class 214214H.IntEnum
+        sol=13
+        ky=11
+        ino=null
+
+        class 236236P.IntEnum
+        sol=null
+        ky=4
+        ino=null
+
+        class 632146S.IntEnum
+        sol=null
+        ky=null
+        ino=7
+
+
+
